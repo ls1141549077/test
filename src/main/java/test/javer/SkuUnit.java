@@ -6,7 +6,6 @@ import lombok.ToString;
 import org.javers.core.metamodel.annotation.DiffIgnore;
 import org.javers.core.metamodel.annotation.Id;
 import org.javers.core.metamodel.annotation.PropertyName;
-import org.jfree.util.UnitType;
 
 /**
  * @Discription
