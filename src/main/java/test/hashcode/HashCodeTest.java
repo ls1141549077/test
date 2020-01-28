@@ -18,6 +18,7 @@ import java.util.concurrent.LinkedBlockingDeque;
 public class HashCodeTest {
     static Person p1 ;
     static Person p2 ;
+    static Person p3 ;
 
     static {
         p1 = new Person() ;
@@ -27,6 +28,10 @@ public class HashCodeTest {
         p2 = new Person() ;
         p2.setAge(15);
         p2.setName("李白");
+
+        p3 = new Person() ;
+        p3.setAge(15);
+        p3.setName("李白");
     }
 
     public static void main(String[] args) throws IOException {
@@ -34,6 +39,7 @@ public class HashCodeTest {
         //  测试结果 属性一样 HASHCODE 一定相同
         System.out.println(p1.hashCode());
         System.out.println(p2.hashCode());
+        System.out.println(p3.hashCode());
 
     }
 }

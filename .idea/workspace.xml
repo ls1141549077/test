@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce13d810-b42b-48d4-b851-bf6bb46a949b" name="Default" comment="删除错误引用">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/date/DateFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/date/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/date/时间的测试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/thread/JoinTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/canlendar/CanlendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/date/CanlendarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/hashcode/HashCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/hashcode/HashCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/thread/RunnableThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/thread/RunnableThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +74,7 @@
       <recent name="E:\workspace\test\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadTest">
+  <component name="RunManager" selected="Application.HashCodeTest">
     <configuration name="HashCodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.hashcode.HashCodeTest" />
       <module name="test" />
@@ -83,13 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.http.HttpTest" />
+    <configuration name="JoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.thread.JoinTest" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.http.*" />
+          <option name="PATTERN" value="test.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +162,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HttpTest" />
       <item itemvalue="Application.KillDY" />
       <item itemvalue="Application.StreamMain" />
       <item itemvalue="Application.HashCodeTest" />
       <item itemvalue="Application.ThreadTest" />
+      <item itemvalue="Application.JoinTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadTest" />
         <item itemvalue="Application.HashCodeTest" />
+        <item itemvalue="Application.JoinTest" />
+        <item itemvalue="Application.ThreadTest" />
         <item itemvalue="Application.StreamMain" />
         <item itemvalue="Application.KillDY" />
-        <item itemvalue="Application.HttpTest" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +244,7 @@
       <workItem from="1579058029291" duration="2310000" />
       <workItem from="1580034408717" duration="410000" />
       <workItem from="1580034829880" duration="2602000" />
-      <workItem from="1580178648473" duration="3725000" />
+      <workItem from="1580178648473" duration="7139000" />
     </task>
     <task id="LOCAL-00001" summary="设置GIT 忽略">
       <created>1580035083048</created>
@@ -261,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580181383138</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="删除错误引用">
+      <created>1580194068315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580194068315</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,10 +296,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580178746470" />
-    <state x="418" y="10" key="CommitChangelistDialog2" timestamp="1580181382029">
+    <state x="418" y="10" key="CommitChangelistDialog2" timestamp="1580194067774">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="418" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580181382029" />
+    <state x="418" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580194067774" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1580180391245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -295,22 +308,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580180956175" />
-    <state width="745" height="55" key="GridCell.Tab.0.bottom" timestamp="1580049290757">
+    <state width="745" height="220" key="GridCell.Tab.0.bottom" timestamp="1580197218410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="55" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580049290757" />
-    <state width="745" height="55" key="GridCell.Tab.0.center" timestamp="1580049290757">
+    <state width="745" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580197218410" />
+    <state width="745" height="220" key="GridCell.Tab.0.center" timestamp="1580197218410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="55" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580049290757" />
-    <state width="745" height="55" key="GridCell.Tab.0.left" timestamp="1580049290757">
+    <state width="745" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580197218410" />
+    <state width="745" height="220" key="GridCell.Tab.0.left" timestamp="1580197218410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="55" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580049290757" />
-    <state width="745" height="55" key="GridCell.Tab.0.right" timestamp="1580049290757">
+    <state width="745" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580197218410" />
+    <state width="745" height="220" key="GridCell.Tab.0.right" timestamp="1580197218410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="55" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580049290757" />
+    <state width="745" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580197218410" />
     <state width="367" height="241" key="GridCell.Tab.1.bottom" timestamp="1580049290754">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -331,10 +344,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580034818990" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1580181772271">
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1580194069415">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580181772271" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580194069415" />
     <state x="457" y="44" width="621" height="735" key="find.popup" timestamp="1580034581107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -1,4 +1,4 @@
-package canlendar;
+package test.date;
 
 import java.util.Calendar;
 
