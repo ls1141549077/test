@@ -2,7 +2,7 @@ package test.single;
 
 public class SingleBean {
 
-    // 1. 私有静态变量 ， volatitle 修饰防止指令重排
+    // 1. 私有静态变量 ， volatile 修饰防止指令重排
     private static volatile   SingleBean singleBean= null;
     // 2. 私有构造方法
     private SingleBean(){

@@ -1,20 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce13d810-b42b-48d4-b851-bf6bb46a949b" name="Default" comment="删除错误引用">
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/date/DateFormatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/date/DateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/date/时间的测试.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/thread/JoinTest.java" afterDir="false" />
+    <list default="true" id="ce13d810-b42b-48d4-b851-bf6bb46a949b" name="Default" comment="测试类">
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/algorithm/primary/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/algorithm/primary/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/algorithm/primary/初级算法" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/algorithm/算法" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/bigdata/hbase/HbaseKerberosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/hadoop/HdfsClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/http/LaoShanTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/jdk/BigDecimalTets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/jdk/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/mq/kafka/KafkaProduerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/canlendar/CanlendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/date/CanlendarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/hashcode/HashCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/hashcode/HashCodeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/thread/RunnableThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/thread/RunnableThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/mq/kafka/KafkaConsumerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/mq/kafka/KafkaConsumerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/single/SingleBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/single/SingleBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/sum/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/sum/Sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,7 +54,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="userSettingsFile" value="E:\develop\apache-maven-3.3.3\conf\settings.xml" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -49,14 +73,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569491337954" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/test/tree" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jictec" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/java/test/Single.java" />
   </component>
   <component name="RecentsManager">
@@ -74,14 +103,14 @@
       <recent name="E:\workspace\test\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashCodeTest">
-    <configuration name="HashCodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.hashcode.HashCodeTest" />
+  <component name="RunManager" selected="Application.BigDecimalTets">
+    <configuration name="BigDecimalTets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.jdk.BigDecimalTets" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.hashcode.*" />
+          <option name="PATTERN" value="test.jdk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,13 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.thread.JoinTest" />
+    <configuration name="LaoShanTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.http.LaoShanTicket" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.thread.*" />
+          <option name="PATTERN" value="test.http.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,21 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KillDY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KillDY" />
+    <configuration name="OOMTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.gc.OOMTest" />
       <module name="test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.stream.StreamMain" />
-      <module name="test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="-verbose:gc -Xms10M -Xmn10M -XX:+PrintGCDetails -XX:SurvivorRatio=8 -XX:+HeapDumpOnOutOfMemoryError" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.stream.*" />
+          <option name="PATTERN" value="test.gc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,16 +146,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.thread.ThreadTest" />
+    <configuration name="SOFTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.gc.SOFTest" />
+      <module name="test" />
+      <option name="VM_PARAMETERS" value="-Xss2M" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.gc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.jdk.StringTest" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.thread.*" />
+          <option name="PATTERN" value="test.jdk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.sum.Sum" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.sum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestNode" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,19 +219,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KillDY" />
-      <item itemvalue="Application.StreamMain" />
-      <item itemvalue="Application.HashCodeTest" />
-      <item itemvalue="Application.ThreadTest" />
-      <item itemvalue="Application.JoinTest" />
+      <item itemvalue="Application.OOMTest" />
+      <item itemvalue="Application.SOFTest" />
+      <item itemvalue="Application.Sum" />
+      <item itemvalue="Application.TestNode" />
+      <item itemvalue="Application.BigDecimalTets" />
+      <item itemvalue="Application.LaoShanTicket" />
+      <item itemvalue="Application.StringTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashCodeTest" />
-        <item itemvalue="Application.JoinTest" />
-        <item itemvalue="Application.ThreadTest" />
-        <item itemvalue="Application.StreamMain" />
-        <item itemvalue="Application.KillDY" />
+        <item itemvalue="Application.BigDecimalTets" />
+        <item itemvalue="Application.StringTest" />
+        <item itemvalue="Application.LaoShanTicket" />
+        <item itemvalue="Application.TestNode" />
+        <item itemvalue="Application.Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +303,67 @@
       <workItem from="1579058029291" duration="2310000" />
       <workItem from="1580034408717" duration="410000" />
       <workItem from="1580034829880" duration="2602000" />
-      <workItem from="1580178648473" duration="7139000" />
+      <workItem from="1580178648473" duration="12067000" />
+      <workItem from="1580219913576" duration="169000" />
+      <workItem from="1580220093537" duration="1884000" />
+      <workItem from="1580304829047" duration="2186000" />
+      <workItem from="1580452413643" duration="741000" />
+      <workItem from="1580632557348" duration="2210000" />
+      <workItem from="1580701956075" duration="11586000" />
+      <workItem from="1580810645083" duration="1831000" />
+      <workItem from="1580993885509" duration="6000" />
+      <workItem from="1581240994318" duration="3586000" />
+      <workItem from="1581320614948" duration="14000" />
+      <workItem from="1581320639705" duration="1418000" />
+      <workItem from="1581488244816" duration="2739000" />
+      <workItem from="1581575926749" duration="5643000" />
+      <workItem from="1581729220262" duration="4367000" />
+      <workItem from="1581833740738" duration="2171000" />
+      <workItem from="1582169126092" duration="4142000" />
+      <workItem from="1582268239218" duration="3612000" />
+      <workItem from="1582512081350" duration="4195000" />
+      <workItem from="1582596998808" duration="6296000" />
+      <workItem from="1582700322997" duration="1813000" />
+      <workItem from="1582766491624" duration="8114000" />
+      <workItem from="1582882934595" duration="1835000" />
+      <workItem from="1582974784680" duration="3747000" />
+      <workItem from="1582981789139" duration="783000" />
+      <workItem from="1583028490208" duration="1405000" />
+      <workItem from="1583248858686" duration="795000" />
+      <workItem from="1583716224708" duration="147000" />
+      <workItem from="1583719081210" duration="2963000" />
+      <workItem from="1583978447990" duration="2029000" />
+      <workItem from="1584088613843" duration="1235000" />
+      <workItem from="1584501658722" duration="1623000" />
+      <workItem from="1584581221247" duration="2943000" />
+      <workItem from="1584676284637" duration="1828000" />
+      <workItem from="1584683196379" duration="6631000" />
+      <workItem from="1584938325172" duration="5622000" />
+      <workItem from="1584954457138" duration="1097000" />
+      <workItem from="1585011623279" duration="12915000" />
+      <workItem from="1585035919538" duration="156000" />
+      <workItem from="1585036087667" duration="6000" />
+      <workItem from="1585185824223" duration="1215000" />
+      <workItem from="1585303862805" duration="689000" />
+      <workItem from="1585469345267" duration="564000" />
+      <workItem from="1585471994701" duration="1284000" />
+      <workItem from="1585535172054" duration="7565000" />
+      <workItem from="1586326783905" duration="3507000" />
+      <workItem from="1586343901891" duration="11000" />
+      <workItem from="1586770022995" duration="692000" />
+      <workItem from="1586772955379" duration="8000" />
+      <workItem from="1587536931954" duration="2505000" />
+      <workItem from="1588728126449" duration="71000" />
+      <workItem from="1588815037494" duration="3031000" />
+      <workItem from="1588833434405" duration="1228000" />
+      <workItem from="1592725455188" duration="1978000" />
+      <workItem from="1592819299422" duration="977000" />
+      <workItem from="1592873984716" duration="611000" />
+      <workItem from="1593169612763" duration="4073000" />
+      <workItem from="1597217272711" duration="810000" />
+      <workItem from="1603093242711" duration="771000" />
+      <workItem from="1603275384307" duration="1014000" />
+      <workItem from="1603878295640" duration="734000" />
     </task>
     <task id="LOCAL-00001" summary="设置GIT 忽略">
       <created>1580035083048</created>
@@ -274,7 +393,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580194068315</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="测试类">
+      <created>1580197436071</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580197436071</updated>
+    </task>
+    <task id="LOCAL-00006" summary="测试类">
+      <created>1584596146019</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584596146019</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,79 +416,49 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="设置GIT 忽略" />
     <MESSAGE value="删除错误引用" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除错误引用" />
+    <MESSAGE value="测试类" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试类" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580180879386">
+    <state width="1493" height="335" key="GridCell.Tab.0.bottom" timestamp="1603879207428">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="488" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1580180879386" />
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1580178746470">
+    <state width="1493" height="335" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603879207428" />
+    <state width="1493" height="335" key="GridCell.Tab.0.center" timestamp="1603879207428">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580178746470" />
-    <state x="418" y="10" key="CommitChangelistDialog2" timestamp="1580194067774">
+    <state width="1493" height="335" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603879207428" />
+    <state width="1493" height="335" key="GridCell.Tab.0.left" timestamp="1603879207428">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="418" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580194067774" />
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1580180391245">
+    <state width="1493" height="335" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603879207428" />
+    <state width="1493" height="335" key="GridCell.Tab.0.right" timestamp="1603879207428">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1580180391245" />
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1580180956175">
+    <state width="1493" height="335" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603879207428" />
+    <state width="1493" height="335" key="GridCell.Tab.1.bottom" timestamp="1603879207429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580180956175" />
-    <state width="745" height="220" key="GridCell.Tab.0.bottom" timestamp="1580197218410">
+    <state width="1493" height="335" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603879207429" />
+    <state width="1493" height="335" key="GridCell.Tab.1.center" timestamp="1603879207429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580197218410" />
-    <state width="745" height="220" key="GridCell.Tab.0.center" timestamp="1580197218410">
+    <state width="1493" height="335" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603879207429" />
+    <state width="1493" height="335" key="GridCell.Tab.1.left" timestamp="1603879207429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580197218410" />
-    <state width="745" height="220" key="GridCell.Tab.0.left" timestamp="1580197218410">
+    <state width="1493" height="335" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603879207429" />
+    <state width="1493" height="335" key="GridCell.Tab.1.right" timestamp="1603879207429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580197218410" />
-    <state width="745" height="220" key="GridCell.Tab.0.right" timestamp="1580197218410">
+    <state width="1493" height="335" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603879207429" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603096892207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580197218410" />
-    <state width="367" height="241" key="GridCell.Tab.1.bottom" timestamp="1580049290754">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="367" height="241" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580049290754" />
-    <state width="367" height="241" key="GridCell.Tab.1.center" timestamp="1580049290754">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="367" height="241" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580049290754" />
-    <state width="367" height="241" key="GridCell.Tab.1.left" timestamp="1580049290754">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="367" height="241" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580049290754" />
-    <state width="367" height="241" key="GridCell.Tab.1.right" timestamp="1580049290754">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="367" height="241" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580049290754" />
-    <state x="272" y="58" key="SettingsEditor" timestamp="1580034818990">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580034818990" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1580194069415">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580194069415" />
-    <state x="457" y="44" width="621" height="735" key="find.popup" timestamp="1580034581107">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="457" y="44" width="621" height="735" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1580034581107" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580180403272">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580180403272" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603096892207" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -379,6 +482,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/test/javer/JaverTestMain.java</url>
           <line>43</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/thread/ThreadTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/algorithm/primary/ListNode.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/algorithm/primary/ListNode.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/jdk/StringTest.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

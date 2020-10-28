@@ -1,7 +1,10 @@
 package test.sum;
 
+import java.math.BigDecimal;
+
 public class Sum {
     public static void main(String[] args) {
+        testBigSum();
     }
 
     public static void testSum(int[] arr){
@@ -13,6 +16,15 @@ public class Sum {
                 }
             }
         }
+    }
+
+
+    public static void testBigSum(){
+        BigDecimal B1 = new BigDecimal("0");
+        B1=B1.add(new BigDecimal("9.07"));
+        System.out.println(B1);
+
+
     }
 
 
